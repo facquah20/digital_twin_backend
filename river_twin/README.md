@@ -23,6 +23,8 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
+# 6. How to visit the swagger documentation
+Navigate to http://localhost:8000/api/docs
 ---
 
 ## Architecture
